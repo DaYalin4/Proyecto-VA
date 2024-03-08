@@ -3,9 +3,7 @@ byte redPin= 11;
 byte greenPin= 10;
 byte bluePin= 9;
  
-//Para Guardarlos como cadena de caracteres diferentes.
 String str1;
-
 int dato1;
 
 void setup() {
